@@ -34,6 +34,7 @@ It **refreshes, detects slots, enters your details, and confirms booking** – a
 
 ## 🛠️ **Installation & Usage**  
 ### 🔹 **Step 1: Install Dependencies**  
-Before running the bot, install **Selenium**:  
-```sh
-pip install selenium
+downlaod zip and run executable 
+windows blocks it by default so click 
+more info 
+run anyway
